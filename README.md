@@ -37,3 +37,26 @@ A small React application that demonstrates user & course management with basic 
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sudharsan3110/TELUSO-EXERCISE.git
+   cd TELUSO-EXERCISE
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm start
+
+
+Open your browser at:
+
+http://localhost:3000
