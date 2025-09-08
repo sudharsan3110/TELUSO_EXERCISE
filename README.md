@@ -12,7 +12,7 @@ A small React application that demonstrates user & course management with basic 
 
 ### Search / Filter
 - Search users by **name**.
-- Filter users by **course category**.
+- Filter users by **course category**.[yet to done]
 
 ### User Details
 - Click on a user to expand and view full user details and their assigned course.
@@ -25,7 +25,7 @@ A small React application that demonstrates user & course management with basic 
 - Data is saved to **localStorage** so it remains after page refresh.
 
 ### Minimal UI
-- Built with a focus on **functionality over design**.
+- Built with a focus on **functionality over design**.[yet to done ]
 
 ---
 
