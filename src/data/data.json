@@ -1,0 +1,63 @@
+
+{
+    "users": [
+      { "id": 1, "name": "Alice Johnson", "email": "alice@example.com", "role": "Student", "courseId": 1 },
+      { "id": 2, "name": "Bob Smith", "email": "bob@example.com", "role": "Instructor", "courseId": 2 },
+      { "id": 3, "name": "Charlie Brown", "email": "charlie@example.com", "role": "Student", "courseId": 3 },
+      { "id": 4, "name": "Divya Patel", "email": "divya@example.com", "role": "Student", "courseId": 1 },
+      { "id": 5, "name": "Ethan Zhao", "email": "ethan@example.com", "role": "Student", "courseId": 4 },
+      { "id": 6, "name": "Fatima Khan", "email": "fatima@example.com", "role": "Student", "courseId": 5 }
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "React for Beginners",
+        "instructor": "Navin Reddy",
+        "duration": "4 weeks",
+        "category": "Frontend",
+        "rating": 4.5,
+        "studentsEnrolled": 120,
+        "description": "Learn React components, state, and props with small projects."
+      },
+      {
+        "id": 2,
+        "title": "Java Spring Boot Mastery",
+        "instructor": "Ishan Verma",
+        "duration": "6 weeks",
+        "category": "Backend",
+        "rating": 4.8,
+        "studentsEnrolled": 200,
+        "description": "Build scalable REST APIs, data access with JPA, and testing."
+      },
+      {
+        "id": 3,
+        "title": "Fullstack Developer Roadmap",
+        "instructor": "Samantha Lee",
+        "duration": "8 weeks",
+        "category": "Fullstack",
+        "rating": 4.7,
+        "studentsEnrolled": 150,
+        "description": "End-to-end apps with React, Node, and databases."
+      },
+      {
+        "id": 4,
+        "title": "Data Structures in Java",
+        "instructor": "Rahul Sharma",
+        "duration": "5 weeks",
+        "category": "Computer Science",
+        "rating": 4.6,
+        "studentsEnrolled": 95,
+        "description": "Core DS & algorithms with practice problems."
+      },
+      {
+        "id": 5,
+        "title": "Cloud Computing with AWS",
+        "instructor": "Priya Kapoor",
+        "duration": "6 weeks",
+        "category": "Cloud",
+        "rating": 4.9,
+        "studentsEnrolled": 180,
+        "description": "Hands-on AWS services, deployments, and scaling."
+      }
+    ]
+  }
